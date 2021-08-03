@@ -1,0 +1,20 @@
+dentro de la carpeta Setup1_instalables->Debug esta el .exe para instalar
+
+DESPUES DE INSTALAR: 
+
+AL ARCHIVO .EXE archivo CONFIG se encuentra en la ruta de instalacion C:\Program Files (x86)\Default Company Name\Setup1\
+1.- dar clic derecho Propiedades->
+Seguridad-> Editar-> donde dice Usuario dar control total (seleccionar
+todas las casillas)->Aplicar
+2.- dar clic derecho Editar-> Ahi podemos agregar nuestro nombre de servidor
+y el usuario y contraseña si utilizamos. 
+
+PARA LA BASE DE DATOS:  SysContable
+*La carpeta base de datos tiene los archivos mdf y ldf si conoce la ruta de
+los archivos de base de datos de su servidor favor de copiar y pegar.
+*Se añade un archivo .bak si se tiene problema para la primera opcion, recordar 
+que primero se debe crear una BD con el nombre SysContable y sobre ella 
+realizar el BackUp.
+*Nota: tener el servidor en linea para correr la aplicacion, en el archivo
+sesiones.txt vienen los users y passwords
+

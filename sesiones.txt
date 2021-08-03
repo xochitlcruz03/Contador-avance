@@ -1,0 +1,10 @@
+	ventas
+USUARIO:
+Sonia1_Perez
+CONTRASEÑA:
+1234
+	asesor
+USUARIO:
+Sandra1_Mtz	
+CONTRASEÑA:
+1234

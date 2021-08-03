@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contador-avance", "Contador-avance\Contador-avance.csproj", "{C489EF24-D97F-4CBD-95F4-AD0C273A8D00}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{D55C2C0F-7109-4E5F-B4B9-F48B04E4FDA3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Yisiah_2", "..\..\Documents\septimoA\alma\Yisiah_2\Yisiah_2.vdproj", "{57F1D7A5-9EDA-4F78-8E07-DFBAA87ADF6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C489EF24-D97F-4CBD-95F4-AD0C273A8D00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C489EF24-D97F-4CBD-95F4-AD0C273A8D00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C489EF24-D97F-4CBD-95F4-AD0C273A8D00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C489EF24-D97F-4CBD-95F4-AD0C273A8D00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D55C2C0F-7109-4E5F-B4B9-F48B04E4FDA3}.Debug|Any CPU.ActiveCfg = Debug
+		{D55C2C0F-7109-4E5F-B4B9-F48B04E4FDA3}.Release|Any CPU.ActiveCfg = Release
+		{57F1D7A5-9EDA-4F78-8E07-DFBAA87ADF6D}.Debug|Any CPU.ActiveCfg = Debug
+		{57F1D7A5-9EDA-4F78-8E07-DFBAA87ADF6D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A328786-2F37-4940-8ADA-2ED74D5714B9}
+	EndGlobalSection
+EndGlobal

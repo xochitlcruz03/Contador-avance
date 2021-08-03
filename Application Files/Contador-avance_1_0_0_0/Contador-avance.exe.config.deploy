@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <configSections>
+  </configSections>
+  <connectionStrings>
+    <add name="Contador_avance.Properties.Settings.masterConnectionString"
+      connectionString="Data Source=LAPTOP-LHS2C3B1\XOCHITL;Initial Catalog=master;Integrated Security=True"
+      providerName="System.Data.SqlClient" />
+    <add name="DefaultConnection" connectionString="Data Source = |SQL/CE|" />
+    <add name="Contador_avance.Properties.Settings.SysContableConnectionString"
+      connectionString="Data Source=LAPTOP-LHS2C3B1\XOCHITL;Initial Catalog=SysContable;Integrated Security=True"
+      providerName="System.Data.SqlClient" />
+  </connectionStrings>
+  <startup>
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.6.1" />
+  </startup>
+</configuration>
